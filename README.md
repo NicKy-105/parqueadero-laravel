@@ -39,3 +39,9 @@
 **Respuesta:** Sí
 
 **Razón:** Cuando un vehículo sale del parqueadero, su registro se elimina porque no se requiere mantener historial de salidas.
+
+![Formulario de ingreso](capturas/formulario.png)
+![Listado de vehículos](capturas/listado.png)
+![Formulario de ingreso móvil](capturas/movil.png)
+![Listado de vehículos móvil](capturas/movillista.png)
+
